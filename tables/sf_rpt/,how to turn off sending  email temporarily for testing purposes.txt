@@ -1,0 +1,17 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+just rename sf_rpt.php  to  offline.sf_rpt.php
+
+then rename it back when you are finished testing.
+
+or
+
+
+change the subject to
+
+        $subject1 = 'C,,,SD1-CNC Shift Report Record Submitted';
+
+
+2013-06-11[Jun-Tue]15-21PM David Gleba
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
